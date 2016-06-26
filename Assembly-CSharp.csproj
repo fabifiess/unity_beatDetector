@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{09E69558-5126-C505-7DBC-603485DB700C}</ProjectGuid>
+    <ProjectGuid>{5B76045E-AE2F-CBC8-261C-A22D4E80AF0B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,9 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Spectrum.cs" />
-     <Compile Include="Assets\beatManager.cs" />
-     <Compile Include="Assets\beatTrigger.cs" />
+     <Compile Include="Assets\Scripts\Spectrum.cs" />
+     <Compile Include="Assets\Scripts\beatManager.cs" />
+     <Compile Include="Assets\Scripts\beatTrigger.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
